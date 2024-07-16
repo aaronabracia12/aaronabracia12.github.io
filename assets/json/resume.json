@@ -29,86 +29,56 @@
       "url": "https://www.reveal.nz/",
       "startDate": "2022-07-04",
       "endDate": "Present",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "summary": "",
+      "highlights": ["GIS","Database", "PostgreSQL"]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+ 
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "Mapua University (formerly Mapua Institute of Technology)",
+      "location": "Intramuros, Metro Manila, PH",
+      "url": "https://www.mapua.edu.ph/",
+      "area": "Geology",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2013-07-07",
+      "endDate": "2017-10-01",
+      "score": "2.5 GWA",
+      "courses": ["Remote Sensing and GIS", "Geological Field Mapping"]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Best Undergraduate Thesis - Geology Category",
+      "date": "2017-10-01",
+      "awarder": "Mapua University",
+      "research title": "Flood Inundation Modeling of the Pasig-Potrero River Draining from Mt. Pinatubo to Central Luzon Basin, Philippines using HEC-RAS",
+      "summary": "An award given to the best undergraduate thesis under the department of geology."
+    },
+    {
+      "title": "Academic Excellence Awardee - Rank 1",
+      "date": "2017-10-01",
+      "awarder": "Mapua University - CEGE Department",
+      "summary": "The award is given to the student with the highest general weighted average in their respective batch."
     }
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Google Data Analytics",
+      "date": "2024-06-06",
+      "issuer": "Google",
+      "url": "https://www.coursera.org/account/accomplishments/specialization/9UNRZPV89B7Q",
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "name": "SQL Associate",
+      "date": "2024-07-07",
+      "issuer": "DataCamp",
+      "url": "https://www.datacamp.com/certificate/SQA0018515284765",
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Licensed Geologist",
+      "date": "2018-11-01",
+      "issuer": "Professional Regulation Commission",
     }
   ],
   "publications": [
