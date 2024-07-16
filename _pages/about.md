@@ -17,4 +17,9 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-An experienced GIS specialist with a background in research and interest in data analysis. My expertise lies in efficiently automating processes, maintaining spatial PostgreSQL databases and innovations. I possess a proven track record of success in identifying areas for improvement and streamlining operations through utilization of ETL tools and coding techniques. I also have experience working with digital twin, ArcGIS tools, GPR and LiDAR Data, and QGIS.
+
+An experienced GIS specialist with a background in research and interest in data analysis. My expertise lies in efficiently automating processes, maintaining spatial PostgreSQL databases and innovations. 
+
+I possess a proven track record of success in identifying areas for improvement and streamlining operations through utilization of ETL tools and coding techniques. 
+
+I also have experience working with digital twin, ArcGIS tools, GPR and LiDAR Data, and QGIS.
