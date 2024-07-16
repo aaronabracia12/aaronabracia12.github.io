@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>SMDC Light Residences</p>
+    <p><a href ="https://www.google.com/maps/dir//SMDC+Light+Mall,+Madison,+Mandaluyong,+Metro+Manila/@14.5752257,121.0475772,16.5z/data=!4m8!4m7!1m0!1m5!1m1!1s0x3397c8443d98fad7:0xce3d8811d74bedff!2m2!1d121.0492401!2d14.5743146?entry=ttu">SMDC Light Residences</a></p>
     <p>Barangka Ilaya</p>
     <p>Mandaluyong, Metro Manila 1550</p>
 
